@@ -1,0 +1,7 @@
+table {
+    width: 100%;
+    font-size: 20px; /* 文字サイズを大きく */
+}
+th {
+    background-color: #f2f2f2;
+}
