@@ -1,5 +1,6 @@
 # HTML-Table-from-Excel
 ExcelデータをJavaScriptファイルに変換し、HTMLで表示するスクリプト。
+Excelデータ内のurlから画像を表示することができる。
 
 ## 特徴
 
